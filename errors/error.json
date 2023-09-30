@@ -1,0 +1,12 @@
+{
+    "OrderNotFound": {
+        "code": 404,
+        "data": "Order Not Found",
+        "custom_code": "ORDER_NOT_FOUND"
+    },
+    "InsufficentArguments": {
+        "code": 400,
+        "data": "Insufficent Arguments",
+        "custom_code": "INSUFFICENT_ARGUMENTS"
+    }
+}
